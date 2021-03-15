@@ -1,0 +1,37 @@
+[
+  {
+    "country": "stationary",
+    "donut": 3,
+    "donutColor": "hsl(183, 70%, 50%)"
+  },
+  {
+    "country": "primary batteries",
+    "donut": 16,
+    "donutColor": "hsl(196, 70%, 50%)"
+  },
+  {
+    "country": "computers",
+    "donut": 77,
+    "donutColor": "hsl(354, 70%, 50%)"
+  },
+  {
+    "country": "legal services",
+    "donut": 120,
+    "donutColor": "hsl(288, 70%, 50%)"
+  },
+  {
+    "country": "vehicle repair",
+    "donut": 135,
+    "donutColor": "hsl(198, 70%, 50%)"
+  },
+  {
+    "country": "rail transport",
+    "donut": 146,
+    "donutColor": "hsl(340, 70%, 50%)"
+  },
+  {
+    "country": "oil other food from somewhere",
+    "donut": 160,
+    "donutColor": "hsl(12, 70%, 50%)"
+  }
+]

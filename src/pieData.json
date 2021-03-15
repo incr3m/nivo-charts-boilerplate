@@ -1,0 +1,32 @@
+[
+  {
+    "id": "make",
+    "label": "make",
+    "value": 341,
+    "color": "hsl(291, 70%, 50%)"
+  },
+  {
+    "id": "sass",
+    "label": "sass",
+    "value": 15,
+    "color": "hsl(169, 70%, 50%)"
+  },
+  {
+    "id": "php",
+    "label": "php",
+    "value": 48,
+    "color": "hsl(265, 70%, 50%)"
+  },
+  {
+    "id": "c",
+    "label": "c",
+    "value": 303,
+    "color": "hsl(281, 70%, 50%)"
+  },
+  {
+    "id": "erlang",
+    "label": "erlang",
+    "value": 541,
+    "color": "hsl(7, 70%, 50%)"
+  }
+]
